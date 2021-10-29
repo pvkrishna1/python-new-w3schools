@@ -1,0 +1,9 @@
+x='lokEshit'
+print(x)
+print(x.capitalize())
+#print(x.title())
+print(x.upper())
+#print(x.lower())
+#print(x.isupper())
+#print(x.islower())
+print(x.isdigit())
