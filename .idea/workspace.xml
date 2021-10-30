@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c696600-152d-40d2-80e9-6bae29c9d968" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="205V93ZppCLpysQwebclLcHephN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TRYY" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sree\Videos\kkk\TRYY" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CAOex5">
+    <configuration name="CAOex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kkk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassAndObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassAndObjects/CAOex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CAOex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kkk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassAndObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassAndObjects/CAOex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CAOex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kkk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassAndObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassAndObjects/CAOex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CAOex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kkk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassAndObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassAndObjects/CAOex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CAOex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kkk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassAndObjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassAndObjects/CAOex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CAOex1" />
+      <item itemvalue="Python.CAOex2" />
+      <item itemvalue="Python.CAOex3" />
+      <item itemvalue="Python.CAOex4" />
+      <item itemvalue="Python.CAOex5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CAOex5" />
+        <item itemvalue="Python.CAOex4" />
+        <item itemvalue="Python.CAOex3" />
+        <item itemvalue="Python.CAOex2" />
+        <item itemvalue="Python.CAOex1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c696600-152d-40d2-80e9-6bae29c9d968" name="Default Changelist" comment="" />
+      <created>1635334280165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635334280165</updated>
+      <workItem from="1635334285301" duration="180000" />
+      <workItem from="1635354128373" duration="4072000" />
+      <workItem from="1635439303451" duration="11016000" />
+      <workItem from="1635525753009" duration="2778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635356361550">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1635356361550" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1635528537570">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1635528537570" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1635528537570">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1635528537570" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1635528537570">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1635528537570" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1635528537570">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1635528537570" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1635520286264">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1635520286264" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1635520286264">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1635520286264" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1635520286264">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1635520286264" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1635520286264">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1635520286264" />
+    <state x="279" y="54" key="SettingsEditor" timestamp="1635441808544">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="279" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1635441808544" />
+    <state x="477" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1635439311053">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="477" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1635439311053" />
+    <state x="415" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1635492770412">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="415" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1635492770412" />
+    <state x="431" y="137" key="search.everywhere.popup" timestamp="1635355682549">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1635355682549" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kkk$funex7.coverage" NAME="funex7 Coverage Results" MODIFIED="1635526184377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1635443207667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$sfex2.coverage" NAME="sfex2 Coverage Results" MODIFIED="1635518490855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringFormat" />
+    <SUITE FILE_PATH="coverage/kkk$funex1.coverage" NAME="funex1 Coverage Results" MODIFIED="1635519324100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$exppp3els.coverage" NAME="exppp3els Coverage Results" MODIFIED="1635356361676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TRYY" />
+    <SUITE FILE_PATH="coverage/kkk$regexxp4.coverage" NAME="regexxp4 Coverage Results" MODIFIED="1635492797446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp10.coverage" NAME="regexmp10 Coverage Results" MODIFIED="1635493398975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$sfex5.coverage" NAME="sfex5 Coverage Results" MODIFIED="1635519019791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringFormat" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp5.coverage" NAME="exmpp5 Coverage Results" MODIFIED="1635443841133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$funex11.coverage" NAME="funex11 Coverage Results" MODIFIED="1635526665950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$CAOex3.coverage" NAME="CAOex3 Coverage Results" MODIFIED="1635527814566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassAndObjects" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp13.coverage" NAME="regexmp13 Coverage Results" MODIFIED="1635493858204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$funex4.coverage" NAME="funex4 Coverage Results" MODIFIED="1635519855859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp4.coverage" NAME="exmpp4 Coverage Results" MODIFIED="1635443580526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp7.coverage" NAME="regexmp7 Coverage Results" MODIFIED="1635493118076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$funex12.coverage" NAME="funex12 Coverage Results" MODIFIED="1635526962723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$reexpex3.coverage" NAME="reexpex3 Coverage Results" MODIFIED="1635492652650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$funex9.coverage" NAME="funex9 Coverage Results" MODIFIED="1635526488041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$funex3.coverage" NAME="funex3 Coverage Results" MODIFIED="1635519686161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp7.coverage" NAME="exmpp7 Coverage Results" MODIFIED="1635444080480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$expppp2.coverage" NAME="expppp2 Coverage Results" MODIFIED="1635355946579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TRYY" />
+    <SUITE FILE_PATH="coverage/kkk$eregexmp1.coverage" NAME="eregexmp1 Coverage Results" MODIFIED="1635444391992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp11.coverage" NAME="regexmp11 Coverage Results" MODIFIED="1635493599731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp2.coverage" NAME="exmpp2 Coverage Results" MODIFIED="1635443204886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$regxexmp2.coverage" NAME="regxexmp2 Coverage Results" MODIFIED="1635492540290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$CAOex1.coverage" NAME="CAOex1 Coverage Results" MODIFIED="1635527414746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassAndObjects" />
+    <SUITE FILE_PATH="coverage/kkk$funex6.coverage" NAME="funex6 Coverage Results" MODIFIED="1635520712686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$funex10.coverage" NAME="funex10 Coverage Results" MODIFIED="1635526584769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp5.coverage" NAME="regexmp5 Coverage Results" MODIFIED="1635492928129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$CAOex4.coverage" NAME="CAOex4 Coverage Results" MODIFIED="1635528068776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassAndObjects" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp3.coverage" NAME="exmpp3 Coverage Results" MODIFIED="1635442998697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$sfex3.coverage" NAME="sfex3 Coverage Results" MODIFIED="1635518698352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringFormat" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp8.coverage" NAME="regexmp8 Coverage Results" MODIFIED="1635493202405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$funex8.coverage" NAME="funex8 Coverage Results" MODIFIED="1635526313527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$usipex1.coverage" NAME="usipex1 Coverage Results" MODIFIED="1635494036889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/userinput" />
+    <SUITE FILE_PATH="coverage/kkk$CAOex2.coverage" NAME="CAOex2 Coverage Results" MODIFIED="1635527577437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassAndObjects" />
+    <SUITE FILE_PATH="coverage/kkk$sfex1.coverage" NAME="sfex1 Coverage Results" MODIFIED="1635494336191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringFormat" />
+    <SUITE FILE_PATH="coverage/kkk$expppp1.coverage" NAME="expppp1 Coverage Results" MODIFIED="1635355652458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TRYY" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp12.coverage" NAME="regexmp12 Coverage Results" MODIFIED="1635493707505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$funex5.coverage" NAME="funex5 Coverage Results" MODIFIED="1635520039664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$expp4.coverage" NAME="expp4 Coverage Results" MODIFIED="1635356370878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TRYY" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp9.coverage" NAME="regexmp9 Coverage Results" MODIFIED="1635493304086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$sfex4.coverage" NAME="sfex4 Coverage Results" MODIFIED="1635518848556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringFormat" />
+    <SUITE FILE_PATH="coverage/kkk$funex2.coverage" NAME="funex2 Coverage Results" MODIFIED="1635519462558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/kkk$regexmp6.coverage" NAME="regexmp6 Coverage Results" MODIFIED="1635493015404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regexx" />
+    <SUITE FILE_PATH="coverage/kkk$exmpp6.coverage" NAME="exmpp6 Coverage Results" MODIFIED="1635443974514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsoon" />
+    <SUITE FILE_PATH="coverage/kkk$CAOex5.coverage" NAME="CAOex5 Coverage Results" MODIFIED="1635528537554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassAndObjects" />
+  </component>
+</project>
