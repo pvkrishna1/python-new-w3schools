@@ -1,0 +1,69 @@
+Index: dictionaries/copying/cpex2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\nthisdict = {\r\n    \"Brand\" : \"Ford\",\r\n    \"Model\" : \"Mustang\",\r\n    \"Year\" : 1964\r\n}\r\n\r\nmydict = dict(thisdict)\r\nprint(mydict)\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- dictionaries/copying/cpex2.py	(revision 510885b5489a5156f4df121bd6a051bf8167d9b5)
++++ dictionaries/copying/cpex2.py	(date 1636308001326)
+@@ -7,4 +7,6 @@
+ 
+ mydict = dict(thisdict)
+ print(mydict)
++print(thisdict["Brand"])
++
+ 
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/workspace.xml
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(revision 510885b5489a5156f4df121bd6a051bf8167d9b5)
++++ .idea/.gitignore	(date 1636032895522)
+@@ -1,2 +1,4 @@
+ # Default ignored files
+-/workspace.xml
+\ No newline at end of file
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources.local.xml
+\ No newline at end of file
+Index: .idea/kkk.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.8 (tutorial_env)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/kkk.iml	(revision 510885b5489a5156f4df121bd6a051bf8167d9b5)
++++ .idea/kkk.iml	(date 1636563924506)
+@@ -2,7 +2,7 @@
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="jdk" jdkName="Python 3.8 (tutorial_env)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.6 (AWS)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"JavaScriptSettings\">\r\n    <option name=\"languageLevel\" value=\"ES6\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.8 (tutorial_env)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision 510885b5489a5156f4df121bd6a051bf8167d9b5)
++++ .idea/misc.xml	(date 1636563924647)
+@@ -3,5 +3,5 @@
+   <component name="JavaScriptSettings">
+     <option name="languageLevel" value="ES6" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (tutorial_env)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (AWS)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
